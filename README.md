@@ -12,9 +12,9 @@
 
 ### 🎃 𝐒𝐨𝐜𝐢𝐚𝐥 𝐧𝐞𝐭𝐰𝐨𝐫𝐤𝐬:
 
- - [Twitter](https://twitter.com/diogoxpp)
- - [Spotify](https://open.spotify.com/user/6a90t46ohj1k84vy8jav1ihbg)
- - [Telegram](https://t.me/joinchat/POHs9RvZ59jijYWVjMHSQg)
+ - [![Twitter Badge](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fdiogoxpp](https://twitter.com/diogoxpp)
+ - [!Spotify Badge](https://open.spotify.com/user/6a90t46ohj1k84vy8jav1ihbg)
+ - [!Telegram Badge](https://t.me/joinchat/POHs9RvZ59jijYWVjMHSQg)
 
 
 
