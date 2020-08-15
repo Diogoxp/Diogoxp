@@ -12,7 +12,7 @@
 
 ### 🎃 𝐒𝐨𝐜𝐢𝐚𝐥 𝐧𝐞𝐭𝐰𝐨𝐫𝐤𝐬:
 
-- [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-%230077B5?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/d4sein/)
+- [![Twitter Badge](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fdiogoxpp)](https://twitter.com/diogoxpp)
  - [!Spotify Badge](https://open.spotify.com/user/6a90t46ohj1k84vy8jav1ihbg)
  - [!Telegram Badge](https://t.me/joinchat/POHs9RvZ59jijYWVjMHSQg)
 
