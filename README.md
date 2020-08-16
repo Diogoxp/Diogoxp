@@ -1,7 +1,7 @@
 # 👋 𝐇𝐞𝐲 𝐟𝐫𝐢𝐞𝐧𝐝
  
  <h1 alige="center">
-  <img src="https://ik.imagekit.io/c6w0gs4oah/1144459_whygena-draws_reggie-the-mage_9D0yJRH3mT.gif">
+  <img src="">
  </h1>
 
 
