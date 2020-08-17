@@ -1,7 +1,5 @@
 # 👋 𝐇𝐞𝐲 𝐟𝐫𝐢𝐞𝐧𝐝
 
-<img src="https://ik.imagekit.io/c6w0gs4oah/Untitled_a6YfK2v5b.gif">
-
 ### 🎈 𝐏𝐮𝐛𝐥𝐢𝐜 𝐢𝐧𝐟𝐨𝐫𝐦𝐚𝐭𝐢𝐨𝐧:
 
 <p>Hello friend, my name is Diogo, I am a short tech in general, I live in Brazil.<p>
