@@ -4,7 +4,7 @@
 
 <p>Hello friend my name is Diogo, I like everything related to technology, I'm always trying to learn more.<p>
 
-### ✨𝐀𝐝𝐝𝐢𝐭𝐢𝐨𝐧𝐚𝐥 𝐈𝐧𝐟𝐨𝐫𝐦𝐚𝐭𝐢𝐨𝐧
+### ✨ 𝐀𝐝𝐝𝐢𝐭𝐢𝐨𝐧𝐚𝐥 𝐈𝐧𝐟𝐨𝐫𝐦𝐚𝐭𝐢𝐨𝐧
 <p> 
 I live in Brazil, what I like to do most is programming and playing, nothing really different, my music styles are: Trap, Hip Hop, American Rap. That's just it.
 <p>
