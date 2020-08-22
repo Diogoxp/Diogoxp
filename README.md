@@ -7,7 +7,7 @@
 
 ### 🎃 𝐒𝐨𝐜𝐢𝐚𝐥 𝐧𝐞𝐭𝐰𝐨𝐫𝐤𝐬:
 
-- [![Telegram Badge](https://ik.imagekit.io/c6w0gs4oah/Telegram-512_M7X0AXTaH.png)](https://telegram.me/diogosouzaa)
+- [![Telegram Badge](https://img.shields.io/badge/-Telegram-blue)](https://telegram.me/diogosouzaa)
 - [![Reddit Badge](https://img.shields.io/reddit/user-karma/link/diogo_ZUHN?style=social)](https://www.reddit.com/user/DIOGO_zuhn)
 - [![Linkedim Badge](https://img.shields.io/badge/-LinkedIn-%230077B5?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/diogo-oliveira-de-souza-342325196/)
 
