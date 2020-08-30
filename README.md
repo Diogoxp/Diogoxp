@@ -13,6 +13,6 @@ I live in Brazil, what I like to do most is programming and playing, nothing rea
 
 -  [![Telegram Badge](https://img.shields.io/badge/-Telegram-blue)](https://telegram.me/diogosouzaa)
 -  [![Reddit Badge](https://img.shields.io/reddit/user-karma/link/diogo_ZUHN?style=social)](https://www.reddit.com/user/DIOGO_zuhn)
--  [![Twitter Badge](https://img.shields.io/twitter/follow/diogoxpp?style=social)
+-  [![Twitter Badge](https://img.shields.io/twitter/follow/diogoxpp?style=social)](https://twitter.com/diogoxpp)
 
  
