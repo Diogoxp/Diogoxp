@@ -12,7 +12,6 @@ I live in Brazil, what I like to do most is programming and playing, nothing rea
 ### 🎃 𝐒𝐨𝐜𝐢𝐚𝐥 𝐧𝐞𝐭𝐰𝐨𝐫𝐤𝐬:
 
 -  [![Telegram Badge](https://img.shields.io/badge/-Telegram-blue)](https://telegram.me/diogosouzaa)
--  [![Reddit Badge](https://img.shields.io/reddit/user-karma/link/diogo_ZUHN?style=social)](https://www.reddit.com/user/DIOGO_zuhn)
 -  [![Twitter Badge](https://img.shields.io/twitter/follow/diog0x06?style=social)](https://twitter.com/diog0x06)
 
  
