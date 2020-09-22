@@ -1,8 +1,6 @@
 # 👋 𝐇𝐞𝐲 𝐟𝐫𝐢𝐞𝐧𝐝
 
-<h1 align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Sazzo&theme=dark&show_icons=true">
-</h1>
+
 
 ### 🎈 𝐏𝐮𝐛𝐥𝐢𝐜 𝐢𝐧𝐟𝐨𝐫𝐦𝐚𝐭𝐢𝐨𝐧:
 
