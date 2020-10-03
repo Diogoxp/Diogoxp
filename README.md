@@ -2,6 +2,7 @@
 
 <h1 align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=dsogo&theme=dark&show_icons=true">
+<img src="[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)"
 </h1>
 
 ### 🎈 𝐏𝐮𝐛𝐥𝐢𝐜 𝐢𝐧𝐟𝐨𝐫𝐦𝐚𝐭𝐢𝐨𝐧:
