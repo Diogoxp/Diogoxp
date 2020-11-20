@@ -14,6 +14,6 @@ I’m Diogo, I’m 13 years old, a programming student.✍️
 
 𝗦𝘁𝗮𝘁𝗲𝘀 ☄️
 
-<h1 align="center">
+<h1>
 <img src="https://github-readme-stats.vercel.app/api?username=dsogo&theme=dark&show_icons=true">
 </h1>
