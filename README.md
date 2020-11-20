@@ -1,21 +1,19 @@
-# 👋 𝐇𝐞𝐲 𝐟𝐫𝐢𝐞𝐧𝐝
+#### _۪۪ۗۗۖ۫۫̉̑̐𝐇𝐢 𝐭𝐡𝐞𝐫𝐞 👋۪۪ۗۗۖ۫۫̉̑̐
+<p>
+<p>
+I’m Diogo, I’m 13 years old, a programming student.✍️
+<p>
+🎓 Currently learning go, and working on projects
+<p>
+
+𝐂𝐨𝐦𝐦𝐮𝐧𝐢𝐜𝐚𝐭𝐢𝐨𝐧:
+-  [![Telegram Badge](https://img.shields.io/badge/-Telegram-blue)](https://telegram.me/diogosouzaa)
+⠀⠀⠀⠀⠀⠀⠀⠀
+- [![Twitter Badge](https://img.shields.io/twitter/follow/dos_uza?style=social)](https://twitter.com/dos_uza)
+
+
+𝗦𝘁𝗮𝘁𝗲𝘀 ☄️
 
 <h1 align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=dsogo&theme=dark&show_icons=true">
 </h1>
-
-### 🎈 𝐏𝐮𝐛𝐥𝐢𝐜 𝐢𝐧𝐟𝐨𝐫𝐦𝐚𝐭𝐢𝐨𝐧:
-
-<p>Hello friend my name is Diogo, I like everything related to technology, I'm always trying to learn more.<p>
-
-### ✨ 𝐀𝐝𝐝𝐢𝐭𝐢𝐨𝐧𝐚𝐥 𝐈𝐧𝐟𝐨𝐫𝐦𝐚𝐭𝐢𝐨𝐧
-<p> 
-I live in Brazil, what I like to do most is programming and playing, nothing really different, my music styles are: Trap, Hip Hop, American Rap. That's just it.
-<p>
-
-### 🎃 𝐒𝐨𝐜𝐢𝐚𝐥 𝐧𝐞𝐭𝐰𝐨𝐫𝐤𝐬:
-
--  [![Telegram Badge](https://img.shields.io/badge/-Telegram-blue)](https://telegram.me/diogosouzaa)
--  [![Twitter Badge](https://img.shields.io/twitter/follow/diog0x06?style=social)](https://twitter.com/Butterflyyng)
-
- 
