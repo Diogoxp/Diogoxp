@@ -12,7 +12,7 @@ I’m Diogo, I’m 13 years old, a programming student.✍️
 - [![Twitter Badge](https://img.shields.io/twitter/follow/dos_uza?style=social)](https://twitter.com/dos_uza)
 
 
-𝗦𝘁𝗮𝘁𝗲𝘀 ☄️
+𝙎𝙩𝙖𝙩𝙚𝙨 ☄️
 
 <h1>
 <img src="https://github-readme-stats.vercel.app/api?username=dsogo&theme=dark&show_icons=true">
