@@ -17,3 +17,5 @@ I’m Diogo, I’m 13 years old, a programming student.✍️
 <h1>
 <img src="https://github-readme-stats.vercel.app/api?username=dsogo&theme=dark&show_icons=true">
 </h1>
+
+<a href="https://www.buymeacoffee.com/dsouza" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="32" width="140"></a>
