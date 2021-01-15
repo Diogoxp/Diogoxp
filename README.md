@@ -3,7 +3,7 @@
 <p>
 I’m Diogo, I’m 13 years old, a programming student.✍️
 <p>
-🎓 Currently learning go, and working on projects
+🎓 Currently learning js, and working on projects
 <p>
 
 𝐂𝐨𝐦𝐦𝐮𝐧𝐢𝐜𝐚𝐭𝐢𝐨𝐧:
