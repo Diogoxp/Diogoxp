@@ -14,9 +14,8 @@ I’m Diogo, I’m 13 years old, a programming student.✍️
 
 𝐒𝐭𝐚𝐭𝐬 ☄️
 <h1>
-![](https://komarev.com/ghpvc/?username=dsogo)
-<h1>
 <img src="https://github-readme-stats.vercel.app/api?username=dsogo&theme=dark&show_icons=true">
+![](https://img.shields.io/static/v1?label=dsogo+views&message=1234567890&color=green)
 </h1>
 
 
