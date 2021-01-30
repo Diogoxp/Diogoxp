@@ -9,7 +9,7 @@ I’m Diogo, I’m 13 years old, a programming student.✍️
 𝐂𝐨𝐦𝐦𝐮𝐧𝐢𝐜𝐚𝐭𝐢𝐨𝐧:
 -  [![Telegram Badge](https://img.shields.io/badge/-Telegram-blue)](https://telegram.me/diogosouzaa)
 ⠀⠀⠀⠀⠀⠀⠀⠀
-- [![Twitter Badge](https://img.shields.io/twitter/follow/diogos0uza?style=social)](https://twitter.com/diogos0uza)
+- [![Twitter Badge](https://img.shields.io/twitter/follow/diogs0uza?style=social)](https://twitter.com/diogs0uza)
 
 
 𝐒𝐭𝐚𝐭𝐬 ☄️
