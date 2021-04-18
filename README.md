@@ -1,7 +1,7 @@
 #### _۪۪ۗۗۖ۫۫̉̑̐𝐇𝐢 𝐭𝐡𝐞𝐫𝐞 👋۪۪ۗۗۖ۫۫̉̑̐
 <p>
 <p>
-I’m Diogo, I’m 13 years old, a programming student.✍️
+I’m Diogo, I’m 14 years old, a programming student.✍️
 <p>
 🎓 Currently learning js, and working on projects
 <p>
